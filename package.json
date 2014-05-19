@@ -1,0 +1,11 @@
+{
+  "name" : "shoelace-ui-fieldset",
+  "version" : "0.0.1",
+  "description" : "Fieldset styles",
+  "repository" : "https://github.com/shoelace-ui/fieldset.git",
+  "keywords" : ["stylus","field", "fieldset", "fieldsets"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+  }
+}
